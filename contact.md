@@ -6,8 +6,8 @@ title: Contact 멜로디- MELODY
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Email : Applicationmobile92@gmail.com <br> No Hp. 0852-6499-10XX </p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Alamat <br> Jln.Ikhlas/Karya Gg.Abd Ghani No.1 Panam, Pekanbaru, Riau, Indonesia.</p>
+    <p class="intro">Email : Applicationmobile92@gmail.com <br> No Hp. 0852-6499-10xx </p>
+    <p>Alamat <br> Jln.Ikhlas/Karya Gg.Abd Ghani No.1 Panam, Pekanbaru, Riau, Indonesia.</p>
     <p>If you have questions about the theme feel free to <a href="mailto:Nikawati39@gmail.com">email me</a> or create an issue on <a href="https://ApplicationD.github.io">GitHub</a>. Enjoy!</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
