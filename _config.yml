@@ -16,8 +16,7 @@ navigation:
    url: /index.html
  - title: Team
    url: /about
- - title: Games
-   url: /Games
+
  - title: Contact
    url: /contact
 
