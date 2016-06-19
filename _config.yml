@@ -1,15 +1,10 @@
 title: 멜로디-Melody
-description: 멜로디-Melody- Menampilkan Music Up to date
+description: 멜로디-Melody Menampilkan Lantunan music yang klasik dan kuno
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://ApplicationD.github.io/멜로디-Melody
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-
-markdown: kramdown
-highlighter: rouge
-gems: [jekyll-paginate]
-paginate: 5
 
 navigation:
  - title: Home
@@ -20,9 +15,9 @@ navigation:
    url: /contact
 
 social:
-   github: ApplicationD
-   twitter: @Nicha_lachh
-   facebook: Nika Wati
+   github: Nikawati
+   twitter: @nikawati95
+   facebook: Nika Wati [https://www.facebook.com/nicka.cyngortu]
    email: Nikawati39@gmail.com
 
 google_analytics: "UA-58263416-1"
