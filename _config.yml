@@ -1,5 +1,5 @@
-title: 멜로디-Bernard Adjei Buckman
-description: 멜로디-Jekyll Blog for Bernard A. Buckman
+title:Bernard Adjei Buckman
+description:Jekyll Blog for Bernard A. Buckman
 
 url: http://babuckman.github.io/
 baseurl: "http://babuckman.github.io/"
@@ -21,8 +21,8 @@ navigation:
    url: /contact
 
 social:
-   github:BABuckman
-   twitter: BABuckman
+   github: BABuckman
+   twitter: babuckman
    facebook: Bernard Buckman [https://www.facebook.com/bernard.buckman]
    email: lordgiver@gmail.com
 
