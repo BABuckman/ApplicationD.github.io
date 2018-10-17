@@ -1,8 +1,8 @@
-title: 멜로디-Melody
-description: 멜로디-Melody Menampilkan Lantunan music yang klasik dan kuno
+title: 멜로디-Bernard Adjei Buckman
+description: 멜로디-Jekyll Blog for Bernard A. Buckman
 
-url: http://ApplicationD.github.io/멜로디-Melody
-baseurl: ""
+url: http://babuckman.github.io/
+baseurl: "http://babuckman.github.io/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -14,16 +14,16 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Team
+ - title: About
    url: /about
 
  - title: Contact
    url: /contact
 
 social:
-   github: Nikawati
-   twitter: nicha_lachh
-   facebook: Nika Wati [https://www.facebook.com/nicka.cyngortu]
-   email: Nikawati39@gmail.com
+   github:BABuckman
+   twitter: @BABuckman
+   facebook: Bernard Buckman [https://www.facebook.com/bernard.buckman]
+   email: lordgiver@gmail.com
 
-google_analytics: "UA-58263416-1"
+google_analytics: <!--"UA-58263416-1"-->
